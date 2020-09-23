@@ -1,0 +1,6 @@
+frmMain = 22, 22, 555, 380, , 0, 0, 0, 0, C
+MainMdl = 44, 44, 510, 402, 
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmConnProperty = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+MSHGridModule = 0, 0, 0, 0, C
+frmMe = 0, 0, 0, 0, C, 0, 0, 0, 0, C
